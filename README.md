@@ -16,6 +16,7 @@ Major Project is a full-stack web application built with Node.js, Express, Mongo
 - **Validation:** Robust input validation using Joi.
 - **RESTful Routing:** Clean, maintainable API endpoints.
 - **Error Handling:** Custom error classes and middleware for graceful error responses.
+- **MVC:**Use Model View Controller
 
 
 ## Technologies Used

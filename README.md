@@ -1,4 +1,4 @@
-# Major Project
+# Hotel Booking System
 
 ## Overview
 
